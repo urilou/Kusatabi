@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="0dp"
+    android:insetRight="0dp" >
+
+    <shape>
+
+        <solid
+            android:id="@+id/cardColor"
+            android:color="#ffffff" />
+
+        <stroke
+            android:width="15dp"
+            android:color="#d6d6d6" />
+    </shape>
+
+</inset>

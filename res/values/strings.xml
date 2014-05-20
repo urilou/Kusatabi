@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">草たび</string>
+    <string name="action_reload">再読み込み</string>
+    <string name="action_settings">設定</string>
+    <string name="action_search">検索</string>
+    <string name="image">画像</string>
+    <string name="wait">お待ちください</string>
+    <string name="locate">ja</string>
+    
+    <string name="locationSettings">位置情報の設定</string>
+    <string name="retry">再試行</string>
+    <string name="cancel">キャンセル</string>
+
+    <string name="checkNetworkStatus">ネットワークの設定を確認しています</string>
+    <string name="checkLocationStatus">位置情報の設定を確認しています</string>
+    <string name="checkGps">現在地を検出しています</string>
+    <string name="checkGpsToast">現在地を検出中です</string>
+    <string name="checkGpsOK">現在地を検出しました</string>
+    <string name="reload">再読み込みします</string>
+    
+    <string name="venueNotFound">おや？名所は見つからなかったようです</string>
+    <string name="venueToGoX"></string>
+    <string name="venueToGoY">への経路をご案内します</string>
+    <string name="venueDistanceX">"約 "</string>
+    <string name="venueDistanceY">" km"</string>
+    
+    <string name="err01Title">ネットワークが無効です(E01)</string>
+    <string name="err01Msg">このアプリではネットワークを利用します。端末の設定を確認してネットワークをオンにしてください。</string>
+    <string name="err02Title">ネットワークが利用できません(E02)</string>
+    <string name="err02Msg">このアプリではネットワークを利用します。ネットワークに接続できる場所に移動するか、端末の設定を確認してください。</string>
+    <string name="err03Title">ネットワークに接続できません(E03)</string>
+    <string name="err03Msg">このアプリではネットワークを利用します。ネットワークに接続されるのを待つか、端末の設定を確認してください。</string>
+    <string name="err04Title">位置情報が無効になっています(E04)</string>
+    <string name="err04Msg">このアプリでは位置情報を利用します。端末の位置情報設定の画面を開いて、現在地をオンにしてください。</string>
+    <string name="err05Title">現在地を検出できません(E05)</string>
+    <string name="err05Msg">現在地を検出できませんでしたので、前回の場所を使います。</string>
+    <string name="err06Title">野外などのGPSが受信できるところで再試行してください(E06)</string>
+    <string name="err06Msg">前回の場所を読み込めませんでした。</string>
+    <string name="err07Title">Foursquareのサーバーで問題が発生しています(E07)</string>
+    <string name="err08Title">Foursquareでは処理できないようです(E08)</string>
+    <string name="err09Title">Foursquareのサーバーが応答しません(E09)</string>
+    <string name="err10Title">"アプリとFoursquareとの間で問題が発生しています(E10 - "</string>
+    
+    <string name="settingDistance">距離</string>
+    <string name="settingDistanceNearOnly">近いところだけを表示する</string>
+    
+    <string name="eggTitle">初期値設定(テストモード)</string>
+    <string name="eggGinza">銀座に設定</string>
+    <string name="eggSea">館山沖に設定</string>
+    
+</resources>

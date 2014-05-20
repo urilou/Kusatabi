@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kusatabi</string>
+    <string name="action_reload">Reload</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="image">Image</string>
+    <string name="wait">Please wait</string>
+    <string name="locate">en</string>
+    
+    <string name="locationSettings">Location settings</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="checkNetworkStatus">Checking the network settings</string>
+    <string name="checkLocationStatus">Checking the location settings</string>
+    <string name="checkGps">Detecting location</string>
+    <string name="checkGpsToast">Detecting location</string>
+    <string name="checkGpsOK">Detected location</string>
+    <string name="reload">Reloading</string>
+    
+    <string name="venueNotFound">Oh! Spot seems to have not found.</string>
+    <string name="venueToGoX">"Map app will guide you to the "</string>
+    <string name="venueToGoY"></string>
+    <string name="venueDistanceX">"About "</string>
+    <string name="venueDistanceY">" km"</string>
+    
+    <string name="err01Title">Network is deactivate (E01)</string>
+    <string name="err01Msg">This app will use the network. Please turn on the network by verifying the settings of the device.</string>
+    <string name="err02Title">Network is unavailable (E02)</string>
+    <string name="err02Msg">This app will use the network. Either move to a location that can connect to the network, or please check the settings of the device.</string>
+    <string name="err03Title">Can\'t connect to the network (E03)</string>
+    <string name="err03Msg">This app will use the network. Either wait to be connected to the network, or please check the settings of the device.</string>
+    <string name="err04Title">Location service is unavailable (E04)</string>
+    <string name="err04Msg">This app will use the location service. Open the location settings, please turn on location access.</string>
+    <string name="err05Title">Can\'t detect location (E05)</string>
+    <string name="err05Msg">This app use the location of last time because it was not able to detect location.</string>
+    <string name="err06Title">Please try again in the place where can receive the GPS, such as outdoor (E06)</string>
+    <string name="err06Msg">Can\'t load the location of the last time.</string>
+    <string name="err07Title">Problem with the Foursquare server (E07)</string>
+    <string name="err08Title">Maybe can\'t be processed in Foursquare (E08)</string>
+    <string name="err09Title">Foursquare server isn\'t responding (E09)</string>
+    <string name="err10Title">"Problem with the Foursquare and this app (E10 - "</string>
+    
+    <string name="settingDistance">Distance</string>
+    <string name="settingDistanceNearOnly">Display spots where close to location</string>
+    
+    <string name="eggTitle">Default Setting(Test mode)</string>
+    <string name="eggGinza">Set to Ginza</string>
+    <string name="eggSea">Set to Off Tatayama</string>
+        
+</resources>
